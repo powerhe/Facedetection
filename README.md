@@ -111,4 +111,12 @@ public void onCreate(Bundle savedInstanceState) {
 ...
 ```
 # Install the application after finishing building
+## Photography detection
 ![Sample Show](http://img.blog.csdn.net/20170406161027197?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+## Video detection
+![Sample Show](http://img.blog.csdn.net/20170407094712307?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![Sample Show](http://img.blog.csdn.net/20170407094726026?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![Sample Show](http://img.blog.csdn.net/20170407094734823?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![Sample Show](http://img.blog.csdn.net/20170407094740620?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![Sample Show](http://img.blog.csdn.net/20170407094626712?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGVsaTAwNw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
